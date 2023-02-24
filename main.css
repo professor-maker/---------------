@@ -1,0 +1,169 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;700;900&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  color: white;
+}
+
+.header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #24252D;
+}
+
+.logo {
+  margin-left: 30px;
+  margin-top: 25px;
+  position: relative;
+}
+
+.search {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: -35px;
+  margin-left: 220px;
+  background: #1B1A21;
+  border-radius: 10px;
+  height: 40px;
+  width: 550px;
+}
+
+.search img {
+  width: 30px;
+  margin-left: 10px;
+}
+
+.search p {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.items {
+  margin-left: 90px;
+  margin-top: -10px;
+}
+
+.items a {
+  margin-left: 38px;
+}
+
+.Create {
+  border: #FF00AE solid;
+  border-radius: 10px;
+  background-color: #FF00AE;
+  padding: 10px 35px 10px 35px;
+}
+
+.connect {
+  border: #FF00AE solid;
+  border-radius: 10px;
+  padding: 10px 35px 10px 35px;
+}
+
+h2 {
+  margin-left: 50px;
+  margin-top: -40px;
+  font-family: "Poppins", sans-serif;
+}
+
+.items {
+  padding-left: 700px;
+  margin-top: -28px;
+  font-family: "Poppins", sans-serif;
+}
+
+.big_text, h1 {
+  color: #FF00AE;
+  font-size: 38px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  margin-left: 119px;
+  margin-top: 150px;
+}
+
+.description {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: "Raleway", sans-serif;
+  margin-left: 119px;
+  margin-top: 30px;
+}
+
+.phones {
+  margin-top: -330px;
+  margin-left: 800px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.buttons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: -300px;
+  margin-left: 119px;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: "Raleway", sans-serif;
+  display: flex;
+}
+
+.explore {
+  border-radius: 10px;
+  padding: 15px 30px 15px 30px;
+  border: #FF00AE solid;
+  margin-right: 100px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: #FF00AE;
+  font-weight: 800;
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+}
+
+.create {
+  border-radius: 10px;
+  padding: 15px 30px 15px 30px;
+  border: #FF00AE solid;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-weight: 800;
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+}
+
+.player {
+  margin-left: 119px;
+  margin-top: 50px;
+}
+
+.player img {
+  margin-left: -17px;
+}
+
+.player p {
+  margin-top: -130px;
+  margin-left: 120px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  color: #FF00AE;
+}
